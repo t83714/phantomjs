@@ -1,7 +1,7 @@
-2014-02-12 23:42:59
+2014-01-04 16:44:10
 
-commit 2af7099a9f5cf683ff565617be38b70318c9203f (HEAD, refs/remotes/origin/master, refs/remotes/origin/HEAD, refs/heads/master)
+commit 491a60b0adf78e6d7a4eff980de81bb3eb8c764d (HEAD, refs/remotes/origin/master, refs/remotes/origin/HEAD, refs/heads/master)
 Author: Ivan De Marino <detronizator@gmail.com>
-Date:   Wed Feb 12 23:42:43 2014 +0000
+Date:   Thu Jan 2 23:02:21 2014 +0000
 
-    Removing flaky (and pointless) test
+    Updated CHANGELOG to mention upgraded Atoms in 1.1.0
